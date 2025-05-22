@@ -14,12 +14,18 @@
             color: #333;
         }
         blockquote {
-            max-width: 800px;
+            max-width: 500px;
             margin: 2em auto;
             padding: 1em;
             line-height: 1.6;
+            text-align: justify;
+            text-indent: 2em;
         }
-        @media (max-width: 600px) {
+        blockquote footer {
+            text-align: right;
+            margin-top: 0.5em;
+        }
+        @media (max-width: 500px) {
             blockquote {
                 margin: 1em;
                 padding: 0.8em;
@@ -52,6 +58,5 @@
         &ldquo;I think that self-limitation is the major limiting factor for most people in the world. People could do far more things than they believe they can.&rdquo;
         <footer>— Frank Herbert</footer>
     </blockquote>
-
 </body>
 </html>
