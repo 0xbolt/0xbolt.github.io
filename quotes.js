@@ -35,6 +35,7 @@ function loadQuotes() {
                 data.quotes['disney0'],
                 data.quotes['edwin3'],
                 data.quotes['edwin0'],
+                data.quotes['edwin9'],
                 data.quotes['churchill1'],
                 data.quotes['senna0'],
                 data.quotes['herbert0'],
