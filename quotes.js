@@ -31,12 +31,13 @@ function loadQuotes() {
         .then(response => response.json())
         .then(data => {
             const quotes = [
-                data.quotes['edwin0'],
-                data.quotes['senna0'],
+                data.quotes['disney1'],
                 data.quotes['disney0'],
-                data.quotes['herbert0'],
-                data.quotes['churchill1'],
                 data.quotes['edwin3'],
+                data.quotes['edwin0'],
+                data.quotes['churchill1'],
+                data.quotes['senna0'],
+                data.quotes['herbert0'],
             ];
 
             const container = document.getElementById('quotes');
