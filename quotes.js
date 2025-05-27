@@ -33,6 +33,7 @@ function loadQuotes() {
             const quotes = [
                 data.quotes['edwin0'],
                 data.quotes['disney1'],
+                data.quotes['catmull0'],
                 data.quotes['edwin3'],
                 data.quotes['senna0'],
                 data.quotes['herbert0'],
