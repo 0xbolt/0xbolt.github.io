@@ -36,6 +36,7 @@ function loadQuotes() {
                 data.quotes['disney0'],
                 data.quotes['herbert0'],
                 data.quotes['churchill1'],
+                data.quotes['edwin3'],
             ];
 
             const container = document.getElementById('quotes');
