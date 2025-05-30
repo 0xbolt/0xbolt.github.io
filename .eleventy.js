@@ -1,6 +1,11 @@
 const yaml = require('js-yaml');
 const fs = require('fs');
 
+// Add MathJax support
+// eleventyConfig.addPassthroughCopy({
+//     "node_modules/mathjax/es5": "mathjax"
+// });
+
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("*.js");
     eleventyConfig.addPassthroughCopy("*.css");

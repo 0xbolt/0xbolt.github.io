@@ -2,12 +2,34 @@
 layout: base.njk
 permalink: /quotes/
 selected_quotes:
-  - brucelee0
-  - brucelee1
-  - brucelee2
-  - edwin0
-  - edwin1
+  - disney1
+  - austin0
+  - edwin3
+  - churchill1
+  - catmull0
+  - brucelee3
 ---
+<style>
+    blockquote {
+        max-width: 520px;
+        margin: 2em auto;
+        padding: 1em;
+        line-height: 1.6;
+        text-align: justify;
+        text-indent: 2em;
+    }
+    blockquote footer {
+        text-align: right;
+        margin-top: 0.5em;
+    }
+    @media (max-width: 520px) {
+        blockquote {
+            margin: 1em;
+            padding: 0.8em;
+        }
+    }
+</style>
+
 {% for id in selected_quotes %}
 <blockquote>
     &ldquo;{{ quotes.quotes[id].text }}&rdquo;
