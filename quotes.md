@@ -8,6 +8,7 @@ selected_quotes:
   - catmull0
   - brucelee0
   - churchill1
+  - niebuhr
 ---
 <style>
     blockquote {
