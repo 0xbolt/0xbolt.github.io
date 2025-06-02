@@ -3,12 +3,13 @@ layout: base.njk
 permalink: /quotes/
 selected_quotes:
   - edwin0
-  - edwin1
   - disney1
   - catmull0
   - brucelee0
   - churchill1
   - niebuhr
+  - churchill5
+  - edwin1
 ---
 <style>
     blockquote {
