@@ -7,6 +7,7 @@ selected_quotes:
   - catmull0
   - brucelee0
   - churchill1
+  - patton0
   - niebuhr
   - churchill5
   - edwin1
