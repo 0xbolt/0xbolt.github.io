@@ -13,6 +13,11 @@ module.exports = function(eleventyConfig) {
     // Add quotes data from YAML
     eleventyConfig.addGlobalData("quotes", yaml.load(fs.readFileSync('quotes.yaml', 'utf8')));
 
+    // Configure articles collection
+    eleventyConfig.addCollection("articles", function(collection) {
+        return collection.getFilteredByGlob("articles/*.md");
+    });
+
     return {
         dir: {
             input: ".",
