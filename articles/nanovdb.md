@@ -1,1 +1,6 @@
-a shallow dive into nanovdb
+---
+title: Visualizing the Universe with OpenVDB
+date: 2024-06-06
+show: false
+---
+

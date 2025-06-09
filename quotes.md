@@ -12,6 +12,7 @@ selected_quotes:
   - churchill5
   - edwin1
   - herbert0
+  - brucelee1
 ---
 <style>
     blockquote {
