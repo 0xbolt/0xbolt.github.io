@@ -1,3 +1,4 @@
-Learning from the greats!
-
-churchill, andrej karpathy, etc.
+---
+layout: article.njk
+title: Learning from the Greats
+---
