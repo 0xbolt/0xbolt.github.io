@@ -16,7 +16,7 @@ selected_quotes:
 ---
 <style>
     blockquote {
-        max-width: 520px;
+        max-width: 540px;
         margin: 2em auto;
         padding: 1em;
         line-height: 1.6;
@@ -27,7 +27,7 @@ selected_quotes:
         text-align: right;
         margin-top: 0.5em;
     }
-    @media (max-width: 520px) {
+    @media (max-width: 540px) {
         blockquote {
             margin: 1em;
             padding: 0.8em;
