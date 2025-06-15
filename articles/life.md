@@ -1,0 +1,3 @@
+Live life with your open...
+
+andrej karpathy, the most important thing, churchill, etc.
