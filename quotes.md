@@ -4,21 +4,21 @@ permalink: /quotes/
 selected_quotes:
   - edwin0
   - disney1
-  - catmull0
-  - brucelee0
+#   - catmull0
   - churchill1
-  - patton0
-  - niebuhr
-  - churchill5
+#   - patton0
+#   - niebuhr
+#   - churchill5
   - edwin1
   - herbert0
-  - brucelee1
-  - sutskever0
+#   - brucelee1
+#   - sutskever0
   - munger1
   - edwin10
-  - munger0
-  - churchill8
-  - catmull3
+  - brucelee0
+#   - munger0
+#   - churchill8
+#   - catmull3
 ---
 <style>
     blockquote {
