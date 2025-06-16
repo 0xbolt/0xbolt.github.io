@@ -13,6 +13,12 @@ selected_quotes:
   - edwin1
   - herbert0
   - brucelee1
+  - sutskever0
+  - munger1
+  - edwin10
+  - munger0
+  - churchill8
+  - catmull3
 ---
 <style>
     blockquote {
