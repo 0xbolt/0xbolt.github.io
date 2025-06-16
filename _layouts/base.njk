@@ -20,7 +20,15 @@
         nav a {
             margin: 0 1em;
             text-decoration: none;
-            color: #333;
+            color: #444;
+            font-variant: small-caps;
+            letter-spacing: 0.05em;
+            font-weight: 500;
+        }
+        nav a:not(:last-child)::after {
+            content: " ";
+            margin-left: 2em;
+            color: #ccc;
         }
         .quote {
             font-style: italic;
@@ -31,7 +39,7 @@
     <nav>
         <a href="/articles/">Articles</a>
         <a href="/projects/">Projects</a>
-        <a href="/contact/">Contact</a>
+        <a href="/quotes/">About</a>
         <a href="/quotes/">Quotes</a>
     </nav>
     {{ content | safe }}
