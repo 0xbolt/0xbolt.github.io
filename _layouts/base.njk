@@ -25,10 +25,8 @@
             letter-spacing: 0.05em;
             font-weight: 500;
         }
-        nav a:not(:last-child)::after {
-            content: " ";
-            margin-left: 2em;
-            color: #ccc;
+        nav a.active {
+            text-decoration: underline;
         }
         .quote {
             font-style: italic;
@@ -37,10 +35,10 @@
 </head>
 <body>
     <nav>
-        <a href="/articles/">Articles</a>
-        <a href="/projects/">Projects</a>
-        <a href="/quotes/">About</a>
-        <a href="/quotes/">Quotes</a>
+        <a href="/articles/" {% if page.url == "/articles/" %}class="active"{% endif %}>Articles</a>
+        <a href="/projects/" {% if page.url == "/projects/" %}class="active"{% endif %}>Projects</a>
+        <a href="/about/" {% if page.url == "/about/" %}class="active"{% endif %}>About</a>
+        <a href="/quotes/" {% if page.url == "/quotes/" %}class="active"{% endif %}>Quotes</a>
     </nav>
     {{ content | safe }}
 </body>
