@@ -21,6 +21,7 @@ selected_quotes:
   - brucelee0
 #   - churchill8
 #   - catmull3
+  - edwin7
 ---
 <style>
     blockquote {
