@@ -5,6 +5,7 @@ selected_quotes:
   - disney1
   - disney0
   - edwin0
+  - carmack0
   - catmull0
   - churchill1
   - patton0
