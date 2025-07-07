@@ -3,6 +3,7 @@ layout: base.njk
 permalink: /quotes/
 selected_quotes:
   - disney1
+  - senna0
   - disney0
   - edwin0
   - carmack0
