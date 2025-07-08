@@ -2,6 +2,7 @@ const yaml = require('js-yaml');
 const fs = require('fs');
 
 module.exports = function(eleventyConfig) {
+    eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("*.js");
     eleventyConfig.addPassthroughCopy("*.css");
 
