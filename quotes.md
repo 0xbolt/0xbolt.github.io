@@ -8,11 +8,11 @@ selected_quotes:
   # - disney0
   - edwin0
   # - carmack0
-  # - catmull0
   # - patton0
-  # - edwin1
   - herbert0
+  - catmull0
   - munger1
+  # - edwin1
   # - edwin10
   # - munger0
   # - brucelee0
