@@ -12,6 +12,8 @@ selected_quotes:
   - herbert0
   - catmull0
   - munger1
+  - carmack0
+  - aeschylus0
   # - edwin1
   # - edwin10
   # - munger0
