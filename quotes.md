@@ -20,6 +20,7 @@ selected_quotes:
   # - munger0
   # - brucelee0
   # - edwin7
+  - roosevelt0
 ---
 <style>
     blockquote {
