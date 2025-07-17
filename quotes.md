@@ -2,25 +2,17 @@
 layout: base.njk
 permalink: /quotes/
 selected_quotes:
-  - disney1
-  - churchill1
-  - senna0
-  # - disney0
   - edwin0
-  # - carmack0
-  # - patton0
+  - disney1
+  - senna0
   - herbert0
-  - catmull0
-  - munger1
-  - carmack0
-  - sutskever0
-  - aeschylus0
-  # - edwin1
-  # - edwin10
-  # - munger0
-  # - brucelee0
-  # - edwin7
+  - churchill1
   - roosevelt0
+  - aeschylus0
+  - sutskever0
+  - catmull0
+  - carmack0
+  - munger1
 ---
 <style>
     blockquote {
