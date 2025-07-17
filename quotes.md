@@ -13,7 +13,9 @@ selected_quotes:
   - catmull0
   - munger1
   - carmack0
+  - sutskever0
   - aeschylus0
+  - king0
   # - edwin1
   # - edwin10
   # - munger0
