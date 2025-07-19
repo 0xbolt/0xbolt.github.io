@@ -8,6 +8,7 @@ selected_quotes:
   - herbert0
   - churchill1
   - churchill9
+  - churchill10
   - roosevelt0
   - aeschylus0
   - sutskever0
