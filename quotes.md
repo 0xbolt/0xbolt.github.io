@@ -7,6 +7,7 @@ selected_quotes:
   - senna0
   - herbert0
   - churchill1
+  - churchill9
   - roosevelt0
   - aeschylus0
   - sutskever0
