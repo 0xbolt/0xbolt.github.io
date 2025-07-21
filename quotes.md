@@ -2,6 +2,7 @@
 layout: base.njk
 permalink: /quotes/
 selected_quotes:
+  - sutskever0
   - edwin0
   - disney1
   - disney0
@@ -12,7 +13,6 @@ selected_quotes:
   - churchill10
   - roosevelt0
   - aeschylus0
-  - sutskever0
   - catmull0
   - carmack0
   - munger1
