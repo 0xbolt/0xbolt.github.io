@@ -4,6 +4,7 @@ permalink: /quotes/
 selected_quotes:
   - edwin0
   - disney1
+  - disney0
   - senna0
   - herbert0
   - churchill1
