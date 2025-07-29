@@ -4,6 +4,9 @@ permalink: /quotes/
 selected_quotes:
   - sutskever0
   - edwin0
+  - edwin3
+  - edwin8
+  - edwin1
   - disney1
   - disney0
   - senna0
