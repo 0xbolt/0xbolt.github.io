@@ -7,6 +7,7 @@ selected_quotes:
   - edwin3
   - edwin8
   - edwin1
+  - edwin11
   - disney1
   - disney0
   - senna0
