@@ -58,6 +58,9 @@ quotes:
   edwin11:
     text: "Almost every day last fall we took on things which people might think would take a year or two. They weren't particularly hard. What was hard was believing they weren't hard."
     author: "Edwin Land"
+  edwin12:
+    text: "I find it's important to work intensively for long hours when I am beggining to see solutions to a problem. At such times, atavistic competences seem to come welling up. You are handling so many variables at a barely conscious level that you can't afford to be interrupted. If you are, it may take a year to cover the same ground you could cover otherwise in 60 hours."
+    author: "Edwin Land"
   churchill0:
     text: "In these dark days the Prime Minister would be grateful if all his colleagues would maintain a high morale in their circles; not minimizing the gravity of events, but showing confidence and inflexible resolve to continue the war until we have broken the will of the enemy to bring all of Europe under his domination."
     author: "Winston S. Churchill"
@@ -73,6 +76,9 @@ quotes:
     note: "In programming we observe exactly the same phenomenon except for the last step."
   churchill4:
     text: "I am ready to meet my Maker. Whether my Maker is prepared for the great ordeal of meeting me is another matter."
+    author: "Winston S. Churchill"
+  churchill5:
+    text: "If you have an important point to make, don't try to be subtle or clever. Use a pile driver. Hit the point once. Then come back and hit it again. Then hit it a third time."
     author: "Winston S. Churchill"
   bernard0:
     text: "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."
