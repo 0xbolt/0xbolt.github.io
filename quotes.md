@@ -2,8 +2,8 @@
 layout: base.njk
 permalink: /quotes/
 selected_quotes:
-  - churchill12
-  - edwin13
+  # - churchill12
+  # - edwin13
   - sutskever0
   - edwin0
   - edwin3
