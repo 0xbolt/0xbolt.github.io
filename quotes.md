@@ -37,7 +37,7 @@ selected_quotes:
   - edwin6
   - edwin5
   - edwin2
-  - hebert1
+  - herbert1
 ---
 <style>
     blockquote {
