@@ -2,10 +2,10 @@
 layout: base.njk
 permalink: /quotes/
 selected_quotes:
+  - edwin0
   - churchill12
   - edwin13
   - sutskever0
-  - edwin0
   - edwin3
   - edwin8
   - edwin1
@@ -22,6 +22,22 @@ selected_quotes:
   - catmull0
   - carmack0
   - munger1
+  - austin0
+  - wiles
+  - churchill8
+  - patton0
+  - munger0
+  - catmull3
+  - edwin10
+  - bernard0
+  - churchill5
+  - churchill3
+  - edwin12
+  - edwin9
+  - edwin6
+  - edwin5
+  - edwin2
+  - hebert1
 ---
 <style>
     blockquote {
